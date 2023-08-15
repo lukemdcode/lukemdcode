@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lukemdcode
-- 👀 I’m interested in PyTorch, medical image interpretationf
-- 🌱 I’m currently studying for a PhD in Artificial Intelligence for Healthcare
+- 👀 I’m interested in PyTorch, medical image interpretation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
